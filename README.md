@@ -1,1 +1,3 @@
-# python-helloworld - Files for Udacity cloud foundations course
+# python-helloworld
+
+Files for Udacity cloud foundations course
